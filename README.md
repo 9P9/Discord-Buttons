@@ -15,3 +15,5 @@ Add Rich Presence Buttons to your Profile!
 * Run Install Bat
 * Start the Run Bat
 * Load Config or Create a config! 
+
+## Tool is only a WIP! Extremely Basic as of Right Now! 
